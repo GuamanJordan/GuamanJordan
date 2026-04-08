@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/jordanguamán-0217a1270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Guamán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/GuamanJordan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-GuamanJordan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Quito%2C%20Ecuador-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -18,13 +21,13 @@
 ```yaml
 name       : Jordan Alexander Guaman Alcivar
 university : Universidad de las Fuerzas Armadas - ESPE
-semester   : 6th — Software Engineering
-focus      : Backend Development & Application Security
+semester   : 7th — Software Engineering
+focus      : Backend Development · Full Stack · Application Security
 languages  : Spanish (Native) · English (Fluent)
-looking_for: Internship / Junior Backend Role
+looking_for: Internship / Junior Backend / Full Stack Role
 ```
 
-> Passionate about building **secure, scalable backend systems**. I follow OWASP standards, love clean API design, and enjoy turning complex problems into elegant solutions. Always learning, always shipping.
+> Software engineer in training with hands-on experience in full stack development and backend systems. Skilled in building RESTful APIs, working with relational databases, and developing data-driven solutions with Python. Strong analytical mindset, focus on **code quality**, and passion for scalable, well-structured software.
 
 ---
 
@@ -33,73 +36,94 @@ looking_for: Internship / Junior Backend Role
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,bash&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,bash&theme=dark&perline=10" />
   </a>
 </p>
 
 ### Backend & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,electron&theme=dark&perline=10" />
+  </a>
+</p>
+
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" />
   </a>
 </p>
 
 ### Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=10" />
   </a>
 </p>
 
-### DevOps & Tools
+### Data & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### DevOps, Cloud & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman,vercel&theme=dark&perline=10" />
   </a>
+</p>
+
+### Practices & Standards
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-239120?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Banking Transaction API
-> **Spring Boot · PostgreSQL · Docker · JWT**
+### 🛒 NexaCommerce — Microservices E-Commerce Platform
+> **Node.js · Express · PostgreSQL · MongoDB · Docker · JWT**
 
-Secure banking API with role-based access control (RBAC), data encryption, SQL injection prevention, and 85% unit test coverage. Deployed as a containerized app with Docker.
-
----
-
-### 🛒 E-Commerce Microservices Platform
-> **Node.js · Express.js · MongoDB**
-
-Microservices architecture for an e-commerce platform, featuring an API Gateway, service-to-service authentication, centralized logging, and NoSQL schemas optimized for high-traffic and horizontal scalability.
+Microservices-based e-commerce platform with API Gateway architecture. Features secure RESTful services with JWT authentication, service-to-service communication, containerized deployment with Docker, 80%+ unit test coverage, and full technical documentation (SRS, architecture design) following Clean Code principles.
 
 ---
 
-### 🔌 RESTful API Integration Project
-> **Spring Boot · JWT · Swagger/OpenAPI · OWASP**
+### ✅ TaskFlow — Task Management System
+> **React · Node.js · Express.js · MongoDB · JWT · Vercel**
 
-Third-party API integration enabling seamless data exchange between systems. Includes rate limiting, JWT auth, full Swagger documentation, and security testing following OWASP guidelines.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordanguaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanguaman&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanguaman&theme=tokyonight&hide_border=true" />
-</p>
+Full-stack MERN web application for task management with secure JWT authentication, automated email verification pipelines, and scalable cloud deployment on Vercel, Render, and MongoDB Atlas.
 
 ---
 
-## 📜 Certifications & Training
+### 📊 Data Analysis & Visualization System
+> **Python · Pandas · NumPy · MySQL · Power BI**
 
-| Year | Course |
-|------|--------|
+Data analysis system capable of processing and visualizing 100,000+ records. Built automated ETL pipelines from MySQL and interactive dashboards with Power BI, achieving a 70% reduction in report generation time.
+
+---
+
+### 🤖 Software Testing Automation Plugin
+> **Electron · React · Node.js · JavaScript**
+
+Cross-platform desktop application for automated software testing. Integrated a Node.js backend for test execution and reporting, cutting test environment setup time by 50%.
+
+---
+
+## 🏅 Certifications & Training
+
+| Year | Certification |
+|------|---------------|
+| 2025 | ☁️ Oracle Data Platform 2025 Certified Foundations Associate — Oracle University |
+| 2025 | 🤖 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle University |
 | 2024 | ☕ Java Spring Boot Backend Development |
 | 2024 | 🔐 OWASP Top 10 Web Application Security |
 | 2023 | 🌐 RESTful API Design and Best Practices |
@@ -116,8 +140,12 @@ Third-party API integration enabling seamless data exchange between systems. Inc
   <a href="https://www.linkedin.com/in/jordanguamán-0217a1270">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/GuamanJordan">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <i>"Security is not a feature — it's a foundation."</i>
 </p>
+
