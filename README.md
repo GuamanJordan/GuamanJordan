@@ -5,7 +5,7 @@
   <a href="mailto:jordanoguaman09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-jordanoguaman09-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jordanguamán-0217a1270" target="_blank">
+  <a href="https://www.linkedin.com/in/jordan-guamán-0217a1270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Guamán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/GuamanJordan" target="_blank">
@@ -35,30 +35,22 @@ looking_for: Internship / Junior Backend / Full Stack Role
 
 ### Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,bash&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,bash&theme=dark&perline=10" />
 </p>
 
 ### Backend & Frameworks
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,electron&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,electron&theme=dark&perline=10" />
 </p>
 
 ### Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" />
 </p>
 
 ### Databases
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=10" />
 </p>
 
 ### Data & Visualization
@@ -70,9 +62,7 @@ looking_for: Internship / Junior Backend / Full Stack Role
 
 ### DevOps, Cloud & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman,vercel&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman,vercel&theme=dark&perline=10" />
 </p>
 
 ### Practices & Standards
@@ -137,7 +127,7 @@ Cross-platform desktop application for automated software testing. Integrated a 
   <a href="mailto:jordanoguaman09@gmail.com">
     <img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jordanguamán-0217a1270">
+  <a href="https://www.linkedin.com/in/jordan-guamán-0217a1270">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GuamanJordan">
